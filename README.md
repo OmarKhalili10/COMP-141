@@ -1,2 +1,2 @@
-# COMP-141
+# COMP141
 My first GitHub project for Comp 141.
